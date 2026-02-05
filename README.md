@@ -1,5 +1,9 @@
 <!-- ================= HERO ================= -->
 
+<p align="center">
+<img src="https://www.codxbytes.com/images/logo/logo.svg" width="120" alt="Codxbyte Logo"/>
+</p>
+
 <h1 align="center">Jitender</h1>
 <h3 align="center">Founder @ Codxbyte • SaaS Architect • Software Engineer • Digital Growth Strategist</h3>
 
@@ -9,9 +13,13 @@ Transforming Technology and Marketing into Measurable Business Impact.
 </p>
 
 <p align="center">
-<a href="https://www.codxbytes.com">Website</a> •
-<a href="https://www.codxbytes.com/technology-portfolio.html">Technology</a> •
-<a href="https://www.codxbytes.com/marketing-portfolio.html">Marketing</a>
+<b>CODE THE FUTURE,<br>MARKET THE SUCCESS!</b>
+</p>
+
+<p align="center">
+<a href="https://www.codxbytes.com" target="_blank" rel="noopener noreferrer">Website</a> •
+<a href="https://www.codxbytes.com/technology-portfolio.html" target="_blank" rel="noopener noreferrer">Technology</a> •
+<a href="https://www.codxbytes.com/marketing-portfolio.html" target="_blank" rel="noopener noreferrer">Marketing</a>
 </p>
 
 <br>
@@ -98,12 +106,10 @@ operate reliably and generate measurable business growth. We engineer systems, p
 <h2 align="center">Systems and Platforms</h2>
 
 <p align="center">
-
 Scalable SaaS Platforms • AI Systems • Distributed Cloud Applications •  
 High Performance Backend Systems • Realtime Monitoring Platforms •  
 Growth-driven Web and Mobile Systems • API-first Architectures •  
 Data Intelligence and Optimization Systems
-
 </p>
 
 <br>
@@ -142,28 +148,13 @@ Data Intelligence and Optimization Systems
 
 <br>
 
-<!-- ================= AI ================= -->
-
-<h2 align="center">AI and Intelligent Systems</h2>
-
-<p align="center">
-
-AI-driven SaaS Platforms • Intelligent Automation • Data Intelligence •  
-Predictive Systems • Workflow Automation • Optimization Engines
-
-</p>
-
-<br>
-
 <!-- ================= FOCUS ================= -->
 
 <h2 align="center">Engineering Focus</h2>
 
 <p align="center">
-
 AI and SaaS Platform Ecosystems • Distributed Systems • Intelligent Automation •  
 Cloud-native Infrastructure • Advanced Platform Architecture • Performance and Reliability Engineering
-
 </p>
 
 <br>
@@ -173,19 +164,24 @@ Cloud-native Infrastructure • Advanced Platform Architecture • Performance a
 <h2 align="center">Collaboration</h2>
 
 <p align="center">
-
 Open to strategic collaborations, SaaS architecture, platform engineering and large-scale system design.
-
 <br><br>
-
-business@codxbytes.com  
+<a href="mailto:business@codxbytes.com">business@codxbytes.com</a>  
 <br>
-<a href="https://www.codxbytes.com">www.codxbytes.com</a>
+<a href="https://www.codxbytes.com" target="_blank" rel="noopener noreferrer">www.codxbytes.com</a>
+</p>
 
+<!-- ================= SOCIAL ================= -->
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+<a href="https://www.instagram.com/codxbytes" target="_blank" rel="noopener noreferrer">Instagram</a> •
+<a href="https://www.linkedin.com/company/codxbyte-private-limited" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 <br>
 
 <p align="center">
-Build Smart • Scale Fast • Engineer for Codxbyte Pvt Ltd
+Build Smart • Scale Fast • Engineer for Codxbyte pvt ltd
 </p>
